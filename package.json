@@ -2,7 +2,7 @@
   "name": "material-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/kolyan25lk/material-site",
+  "homepage": "https://kolyan25lk.github.io/material-site",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
