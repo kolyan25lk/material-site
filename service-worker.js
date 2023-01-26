@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/kolyan25lk/material-site/precache-manifest.a03d1f47504ce7a8e87ea7eabd475c1e.js"
+  "/material-site/precache-manifest.7ed9567d2dbcc5bb903952f3dbf770f7.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/kolyan25lk/material-site/index.html", {
+workbox.routing.registerNavigationRoute("/material-site/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
